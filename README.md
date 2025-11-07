@@ -1,6 +1,7 @@
 
 #My Favorite Band
-**Hot Mulligan**
+---
+==**Hot Mulligan**==
 
 *Favorite tracks in ordered list*
 
